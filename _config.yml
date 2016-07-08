@@ -1,0 +1,14 @@
+layout_spectrum: 0.7398984858300537
+typography_spectrum: 0.16398240346461535
+color:
+  brandStrength: 0.5997412134893239
+  lightness: 0.2030756543390453
+  saturation: 0.40828971564769745
+  rhythmicContrast: 0.33379038446582854
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: sereneherb.org
